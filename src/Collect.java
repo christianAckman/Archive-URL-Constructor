@@ -76,6 +76,8 @@ public class Collect {
 	 	*/
 		
 		/*
+		// This can be used in the future to add sorting functionality
+		
 		switch(sortType){
 		case "none":
 			sortType = "";
