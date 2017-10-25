@@ -1,7 +1,3 @@
-# Archive - URL Constructor
+# ArchiveScraper
 
-* Web scraper for archive.org
-
-* Takes a list of search terms and constructs a url with them. 
-
-* Uses JSoup for HTML parsing to extract results
+* Constructs a search query and scrapes the results from archive.org
